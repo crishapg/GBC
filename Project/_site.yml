@@ -5,6 +5,4 @@ navbar:
     - text: "GBC"
       href: index.html
     - text: "Table"
-      href: Tablea.html
-    - text: "Tableau"
-      href: Tableau.html
+      href: Table.html
